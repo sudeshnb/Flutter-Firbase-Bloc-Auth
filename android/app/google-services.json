@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "122382311574",
+    "project_id": "fir-login-with-bloc-fba70",
+    "storage_bucket": "fir-login-with-bloc-fba70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122382311574:android:fcfb73012e387ba183e2b7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122382311574-9o6iuqeilf66ltuj7gttmdivmjr0petu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvozeJwaqHvBXB0DhGHRr7Ek07tkJPqtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122382311574-9o6iuqeilf66ltuj7gttmdivmjr0petu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
